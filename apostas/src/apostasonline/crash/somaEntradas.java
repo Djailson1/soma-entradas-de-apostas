@@ -11,7 +11,7 @@ public class somaEntradas {
 		  System.out.println("Digite o valor: ");
 		  double valor = scanner.nextDouble();
 		  
-		 /*scanner.nextDouble();*/
+		
 		
         int cont = 1;
         
